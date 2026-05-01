@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Muhammed Lais
 
-<!--
-**laiss786/laiss786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps-focused learner working with Linux systems, automation, and backend tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About
+
+I focus on building a strong foundation in Linux and system-level concepts, with hands-on practice in scripting and automation.
+My approach is centered around understanding how systems work and applying that knowledge to real-world DevOps practices.
+
+---
+
+## 🛠 Core Skills
+
+* Linux system administration
+* Bash scripting & automation
+* File systems & permissions
+* Process and service management
+* Git & version control
+
+---
+
+## ⚙️ Tools & Environment
+
+* Linux (Fedora, Rocky Linux)
+* Bash
+* Git & GitHub
+
+---
+
+## 🚀 Work
+
+* Linux DevOps Lab (hands-on experimentation and practice)
+* Backup and automation scripts
+* System-level debugging and problem solving
+
+---
+
+## 🎯 Focus
+
+* Automation
+* Infrastructure fundamentals
+* DevOps workflows
+
+---
+
+## 📫 Connect
+
+* LinkedIn: (add your link)
+
+---
