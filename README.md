@@ -47,6 +47,6 @@ My approach is centered around understanding how systems work and applying that 
 
 ## 📫 Connect
 
-* LinkedIn: (add your link)
+* LinkedIn:www.linkedin.com/in/mohammedlais786
 
 ---
